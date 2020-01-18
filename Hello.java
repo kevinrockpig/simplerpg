@@ -1,7 +1,9 @@
 public class HelloWorld {
 
     public static void main(String[]args) {
-       System.out.println("¦w¦w");
+		private int status;
+		
+       System.out.println("ï¿½wï¿½w");
     }
 
 
